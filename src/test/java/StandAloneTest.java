@@ -10,8 +10,8 @@ public class StandAloneTest extends BaseTest{
     public void TriplePlay() throws InterruptedException {
 
         // CSR Login
-        String userName = "csr";
-        String userPassword = "netcracker";
+        String userName = "***";
+        String userPassword = "***";
         AddressCheckPage addressCheck = loginPage.loginApplication(userName, userPassword);
 
         // Address Check
