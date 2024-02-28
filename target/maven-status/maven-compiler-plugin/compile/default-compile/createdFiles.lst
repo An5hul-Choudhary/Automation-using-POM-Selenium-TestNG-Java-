@@ -1,0 +1,15 @@
+org\Netcracker\pageObjects\ContactPage.class
+org\Netcracker\AbstractComponents\AbstractComponent.class
+org\Netcracker\pageObjects\CustomerCreation.class
+org\Netcracker\pageObjects\ReviewOrderPage.class
+org\Netcracker\pageObjects\TSSPage.class
+org\Netcracker\pageObjects\ShippingPage.class
+org\Netcracker\pageObjects\SubmittedOrder.class
+org\Netcracker\pageObjects\CsrLoginPage.class
+org\Netcracker\pageObjects\AddressCheckPage.class
+org\Netcracker\pageObjects\BillingInfoPage.class
+org\Netcracker\pageObjects\EquipmentPage.class
+org\Netcracker\pageObjects\CustomizePage.class
+org\Netcracker\pageObjects\SelectPage.class
+org\Netcracker\pageObjects\AppointmentPage.class
+org\Netcracker\pageObjects\PickADate.class
